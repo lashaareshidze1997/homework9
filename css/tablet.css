@@ -1,0 +1,19 @@
+@media (max-width: 700px) {
+    /* Header */
+
+    header {
+        padding-inline: 55px;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    ul {
+        display: none;
+    }
+
+    .contact {
+        display: block;
+    }
+}

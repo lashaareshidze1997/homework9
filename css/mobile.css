@@ -1,0 +1,40 @@
+@media (max-width: 460px) {
+      /* Section 1 */
+
+      .section_1 {
+        padding: 119px 14px;
+    }
+
+    h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section_1_p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+@media (max-width: 376px) {
+    /* Header */
+
+    header {
+        padding: 9px 14px;
+    }
+}
+
+
+@media (max-width: 460px) {
+/* Section 2 */
+    .card {
+        flex-direction: column;
+    }
+
+    .section_2 {
+        padding: 48px 14px;
+    }
+
+    .section_2_div {
+        width: 345px;
+    }
+}
